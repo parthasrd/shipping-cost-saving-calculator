@@ -1,0 +1,1 @@
+<script>window.location='step-1.php'</script>
